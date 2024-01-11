@@ -1,2 +1,8 @@
-# 2024SP-SocialEngagementUsingXR
+# 2024SP:  Social Engagement Using XR
+
+Professors: Dan Swern (School of Communication and Information) and Richard Anderson (Division of Continuing Studies; Rutgers Makerspace)
+
+Description: Cities face challenges when it comes to messaging about available social services, historical curiosities, and creative culture. Community access isn’t necessarily limited by financial or bureaucratic barriers, but through wayfinding and navigation due to poor signage or a dearth of public information. Through web-based tools in XR (extended reality, inclusive of augmented and virtual reality), our smartphones can give us the ability to immediately reveal resources hidden in plain sight as well as provide on-the-fly context and insight for both our built and natural environments. XR integrates real world experience with virtual world access. When produced as a robust community-based ecosystem, XR adds another layer of texture to the places where we live and work, and fundamentally changes the way we think about a traditional neighborhood. By using the mobile camera to frame and interact with the world, we're helping people frame and interpret what they are seeing. Through the use of game mechanics and incentives, we're enhancing and encouraging exploration and fighting isolation between individuals. Students will learn augmented reality 3D-modeling and game development in Unity (ubiquitous developer software), and meet with New Brunswick community and nonprofit leaders to marry their applied technical and creative skills with real world service access needs. Deiner Park on College Avenue Campus will serve as the real world workspace for XR development as it is public space right on campus that represents a convergence of unique creative, environmental, residential, transportation, and service access challenges and opportunities to be explored in the technology lab.
+
+Course Number: 01:090:101 section 06
  
